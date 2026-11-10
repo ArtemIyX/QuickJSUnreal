@@ -1,0 +1,24 @@
+# Unreal-generated files and local build output
+/Intermediate/
+/Saved/
+/DerivedDataCache/
+/Build/
+
+# Keep shipped third-party binaries; ignore Unreal-generated plugin binaries.
+/Binaries/*
+!/Binaries/ThirdParty/
+
+# Local IDE and operating system files
+/.vs/
+/.idea/
+*.sln
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+*.opensdf
+*.sdf
+*.pdb
+*.log
+Thumbs.db
+.DS_Store
