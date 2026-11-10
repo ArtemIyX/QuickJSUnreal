@@ -1,0 +1,24 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "QuickJSUnreal",
+	"Description": "Port of https://github.com/quickjs-ng/quickjs for Unreal",
+	"Category": "Other",
+	"CreatedBy": "Wellsaik",
+	"CreatedByURL": "https://github.com/ArtemIyX",
+	"DocsURL": "https://quickjs-ng.github.io/quickjs/",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "QuickJSUnreal",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [ "Win64" ]
+		}
+	]
+}
