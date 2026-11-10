@@ -244,4 +244,6 @@ The tests have not yet been run for this implementation. Also verify module unlo
 
 QuickJSUnreal hosts the JavaScript engine; it does not ship the `qjs` command-line application, QuickJS's optional `std`/`os` modules, a browser, DOM, JavaScript timers, Vue renderer, or Unreal UI integration. There is no implicit script-file loading. Treat scripts as trusted application content; this is not a security sandbox.
 
-The bundled QuickJS-NG license is included at [Source/ThirdParty/QuickJS/LICENSE](Source/ThirdParty/QuickJS/LICENSE). See the [QuickJS-NG project](https://github.com/quickjs-ng/quickjs) for upstream documentation and notices.
+QuickJSUnreal is available under the [MIT License](LICENSE), including for commercial projects. Retain the applicable copyright and license notices when distributing copies or substantial portions of the software.
+
+Bundled third-party software has its own copyright notices and license terms. The QuickJS-NG MIT license is included at [Source/ThirdParty/QuickJS/LICENSE](Source/ThirdParty/QuickJS/LICENSE). See the [QuickJS-NG project](https://github.com/quickjs-ng/quickjs) for upstream documentation and notices.
