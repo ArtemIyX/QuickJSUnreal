@@ -12,7 +12,7 @@ enum class EQuickJSSourceType : uint8
 	Module
 };
 
-struct QUICKJSUNREAL_API FQuickJSError
+struct FQuickJSError
 {
 	FString Message;
 	FString Stack;
