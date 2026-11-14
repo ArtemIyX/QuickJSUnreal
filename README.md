@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Resources/Icon128.png" alt="QuickJSUnreal plugin icon" width="112" />
+  <img width="1280" height="640" alt="QuickJS" src="https://github.com/user-attachments/assets/d1d28388-08c9-4e60-be3e-ac0585f0e4a4" />
   <h1>QuickJSUnreal</h1>
   <p><strong>Run JavaScript from Unreal Engine C++.</strong></p>
   <p>A small runtime host for <a href="https://github.com/quickjs-ng/quickjs">QuickJS-NG</a>.</p>
